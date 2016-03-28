@@ -7,3 +7,6 @@
 [submodule "ui-github"]
 	path = ui-github
 	url = https://github.com/cphoover/ui-github.git
+[submodule "diagrams-github"]
+	path = diagrams-github
+	url = https://github.com/cphoover/diagrams-github.git
