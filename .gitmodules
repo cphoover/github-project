@@ -4,3 +4,6 @@
 [submodule "sync-github"]
 	path = sync-github
 	url = https://github.com/cphoover/sync-github.git
+[submodule "ui-github"]
+	path = ui-github
+	url = https://github.com/cphoover/ui-github.git
