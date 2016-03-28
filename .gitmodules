@@ -1,0 +1,6 @@
+[submodule "mapper-tool-github"]
+	path = mapper-tool-github
+	url = https://github.com/cphoover/mapper-tool-github.git
+[submodule "sync-github"]
+	path = sync-github
+	url = https://github.com/cphoover/sync-github.git
