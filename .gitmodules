@@ -10,3 +10,6 @@
 [submodule "diagrams-github"]
 	path = diagrams-github
 	url = https://github.com/cphoover/diagrams-github.git
+[submodule "lambda-fn-save-repos"]
+	path = lambda-fn-save-repos
+	url = https://github.com/cphoover/lambda-fn-save-repos.git
