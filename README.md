@@ -1,4 +1,5 @@
 # github-project
+A fun tool for exploring projects on github!
 
 # Components 
 * **mapper-tool-github** - tool for creating elasticsearch mapping your AWS elasticsearch service index
