@@ -13,3 +13,6 @@
 [submodule "lambda-fn-save-repos"]
 	path = lambda-fn-save-repos
 	url = https://github.com/cphoover/lambda-fn-save-repos.git
+[submodule "service-github-data"]
+	path = service-github-data
+	url = git@github.com:cphoover/service-github-data.git
