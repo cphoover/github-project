@@ -16,3 +16,6 @@
 [submodule "service-github-data"]
 	path = service-github-data
 	url = git@github.com:cphoover/service-github-data.git
+[submodule "lambda-fn-get-repos"]
+	path = lambda-fn-get-repos
+	url = git@github.com:cphoover/lambda-fn-get-repos.git
